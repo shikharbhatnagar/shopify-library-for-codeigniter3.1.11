@@ -1,1 +1,5 @@
-Read me contents
+In Shopify App Setup
+
+App URL : App/access
+
+Allowed redirection URL(s) : App/authCallback
